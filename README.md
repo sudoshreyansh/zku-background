@@ -4,6 +4,7 @@ Solidity File: [SafeRemotePurchase.sol](https://github.com/sudoshreyansh/zku-bac
 
 #### Screenshot 1 (Deployment)
 ![](https://github.com/sudoshreyansh/zku-background/blob/main/ZKU_Sol_1.png)
+![](https://github.com/sudoshreyansh/zku-background/blob/main/ZKU_Sol_2.png)
 
 #### Screenshot 2 (Failed completePurchase)
 ![](https://github.com/sudoshreyansh/zku-background/blob/main/ZKU_Sol_3.png)
@@ -11,8 +12,13 @@ Solidity File: [SafeRemotePurchase.sol](https://github.com/sudoshreyansh/zku-bac
 #### Screenshot 3 (Success completePurchase)
 ![](https://github.com/sudoshreyansh/zku-background/blob/main/ZKU_Sol_4.png)
 
-
 ### Question 8
 
 #### Screenshot
 ![](https://github.com/sudoshreyansh/zku-background/blob/main/ZKU_Circuit.png)
+
+```
+80 * 6 = 480
+```
+
+So the circuit behaves correctly!
